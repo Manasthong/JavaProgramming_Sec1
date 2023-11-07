@@ -1,0 +1,5 @@
+Student_id: 2313110955
+Student Name : Manas laeloetphon
+MaJor : IT
+Level : 1
+Facultion: Information Technology
