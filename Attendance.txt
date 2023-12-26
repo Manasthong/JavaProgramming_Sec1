@@ -1,4 +1,4 @@
 Id:2313110955
 Name-Surname:Manas Laeloetphon
-Daet:Dec-12-2023
-Topic: Method of String
+Daet:Dec-26-2023
+Topic: Array and Array Method
