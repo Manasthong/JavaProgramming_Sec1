@@ -1,0 +1,6 @@
+
+git add Attendance.txt
+
+git commit -m "attendance[
+
+git push -u origin master

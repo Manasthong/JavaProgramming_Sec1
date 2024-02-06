@@ -6,9 +6,7 @@ public class Author {
 	private char gender;
 	
 	 Author(String name,String email,char gender){
-		 this.name;
-		 this.email;
-		 this.gender;
+		
 	 
 	
 	}

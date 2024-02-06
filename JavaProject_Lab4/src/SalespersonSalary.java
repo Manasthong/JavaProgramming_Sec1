@@ -7,7 +7,7 @@ public class SalespersonSalary {
 	final int S_salary =1000;
 	
 	int sales; 
-	double salary;
+	double salary = 0;
 
 	Scanner scan = new Scanner(System.in);
 	
@@ -20,7 +20,7 @@ public class SalespersonSalary {
 		}
 		salary = S_salary + (sales * COMMISSION_RATE);
 	}
-	  System.out.print("Salary is : $"+salary);
+	  System.out.printf("Salary is : $%.2f"+salary);
 	}
 
 }

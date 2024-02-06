@@ -38,7 +38,7 @@ public class Invoice {
 		return getAmount()-getAmount()*getAmountDiscount()/100;
 	}
 	public String toString() {
-		return "Invoice id="+id+"cudtomer"+customer.toString()+"amount"+amount;
+		return "Invoice id="+id+"cudtomer"
 	}
 	
 }
